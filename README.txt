@@ -1,10 +1,15 @@
 Just a place to store some common config files etc
 
-
 _______
 CONSOLE
 
-console.xml location is at C:\Users\Dan\AppData\Roaming\Console
+Copy console.xml to C:\Users\<Profile name>\AppData\Roaming\Console
+Make a copy of console.exe
+C:\Program Files (x86)\Console2\Console.exe and C:\Program Files (x86)\Console2\Console2.exe
+
+Copy shortcuts to task bar / start menu 
+
+The Git Bash shortcut uses console2.exe, so you can have separate entries in start menu and task bar.
 
 ___
 GIT
