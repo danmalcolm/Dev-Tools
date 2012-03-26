@@ -1,12 +1,5 @@
 Just a place to store some common config files etc
 
-_____
-FONTS
-
-I use the excellent Envy Code R fonts in Console and Visual Studio.
-
-See http://damieng.com/blog/tag/envy-code-r for further info
-
 
 _______
 CONSOLE
